@@ -1,2 +1,0 @@
-# Tictac
-Game
